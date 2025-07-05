@@ -808,7 +808,7 @@ const GameHub: React.FC = () => {
                   <strong className="text-amber-400">KrashKarts</strong> requires a larger screen for optimal gameplay experience.
                 </p>
                 <p className="text-gray-300 text-sm">
-                  Please play this game on a <strong>desktop</strong> or <strong>tablet</strong> device for the best racing experience! 🏎️
+                  Please play this game on a <strong>desktop</strong> for the best racing experience! 🏎️
                 </p>
               </div>
               
